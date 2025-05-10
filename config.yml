@@ -15,7 +15,7 @@ application:
   max_retries: 3
 
 network_check:
-  default_check_url: 'https://www.xfusion.com'
+  default_check_url: 'https://www.qq.com'
   timeout_ms: 5000  # 超时时间，单位毫秒
 
 credentials:
